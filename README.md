@@ -31,6 +31,16 @@ include-file = <theme>.ini
 
 > remember to change `<theme>` to one of: `decayce`, `dark-decay`, `decay` or `light-decay`.
 
+Then you will be able to use colors in your config, like this:
+
+```dosini
+[bar/main]
+background = ${colors.base}
+foreground = ${colors.text}
+```
+
+> That's just an example btw.
+
 ## Gallery
 
 ### Decay
