@@ -39,7 +39,7 @@ include-file = <theme>.ini
 
 ### Dark Decay
 
-![dark-decay](./assets/dark-decay.png)
+![dark-decay](./.assets/dark-decay.png)
 
 ### Decayce
 
